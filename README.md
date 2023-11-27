@@ -31,7 +31,7 @@
 <p align="center">
 	&nbsp&nbsp&nbsp
 	&nbsp&nbsp&nbsp
-<a href="[https://linkedin.com/in/codingphase](https://www.linkedin.com/in/saraeltaher/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara taher linkedin account" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saraeltaher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara taher linkedin account" height="30" width="40" /></a>
 
 </p>
 
