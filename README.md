@@ -18,8 +18,9 @@
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
-		      <img src="https://th.bing.com/th/id/OIP.3xatIgLyHni_Wi6mE5O7kgHaHa?rs=1&pid=ImgDetMain" alt="git" width="75" hight="75"/>
-                      
+		      <img src="https://th.bing.com/th?id=OIP.Xa0BEkwl0Zx4qnY9lMbD7gHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="git" width="75" hight="75"/>
+                       <img src="https://th.bing.com/th?id=OIP.KTq5K5E3QeLVrm71FR0w8gHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="bootstrap" width="75" hight="75"/>
+		        <img src="https://pluspng.com/img-png/jquery-logo-png-jquery-logo-web-development-jquery-ui-javascript-computer-icons-900x500.png" alt="jquery" width="75" hight="75"/>
                     
 </div>
 
